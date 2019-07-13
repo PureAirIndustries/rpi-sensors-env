@@ -1,0 +1,17 @@
+AWSIoTPythonSDK==1.2.0
+cycler==0.10.0
+matplotlib==2.1.2
+numpy==1.16.4
+-e git+https://github.com/south-coast-science/scs_host_rpi.git@1359483e86f6b795fd7d5e127b340b890bb758f1#egg=scs-host-rpi
+paho-mqtt==1.3.1
+pyparsing==2.4.0
+python-dateutil==2.8.0
+pytz==2019.1
+scs-analysis==0.1.3
+scs-core==0.1.9
+scs-dev==0.1.3
+scs-dfe-eng==0.1.1
+scs-mfr==0.1.3
+scs-osio==0.1.3
+six==1.12.0
+tzlocal==1.4
