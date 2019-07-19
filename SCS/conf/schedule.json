@@ -1,2 +1,1 @@
-{"scs-climate": {"interval": 60.0, "tally": 1}, "scs-gases": {"interval": 5.0, "tally": 1}, "scs-particulates": {"interval": 10.0, "tally": 1}, "scs-status": {"interval": 60.0, "tally": 1}}
-
+{"scs-climate": {"interval": 10.0, "tally": 1}, "scs-gases": {"interval": 5.0, "tally": 1}, "scs-particulates": {"interval": 10.0, "tally": 1}, "scs-status": {"interval": 60.0, "tally": 1}}
